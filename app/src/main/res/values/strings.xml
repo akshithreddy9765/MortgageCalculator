@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="loan_text">Loan Amount: </string>
+    <string name="interest_text">Interest Rate: </string>
+    <string name="years_text">No.of Years: </string>
+    <string name="monthly_text">Monthly Amount: </string>
+    <string name="total_text">Total Amount: </string>
+    <string name="loan_date">Loan Date: </string>
+</resources>
