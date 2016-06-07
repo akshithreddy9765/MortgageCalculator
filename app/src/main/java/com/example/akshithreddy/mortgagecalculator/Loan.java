@@ -1,7 +1,7 @@
 package com.example.akshithreddy.mortgagecalculator;
 
 /**
- * Created by akshithreddy on 5/29/2016.
+ * Created by akshithreddy on 5/29/2014.
  */
 public class Loan {
 
