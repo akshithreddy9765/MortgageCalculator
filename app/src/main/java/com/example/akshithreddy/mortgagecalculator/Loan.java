@@ -5,6 +5,8 @@ package com.example.akshithreddy.mortgagecalculator;
  */
 public class Loan {
 
+// Declaring instance variables 
+
     private double annualInterestRate;
     private int numberOfYears;
     private double loanAmount;
